@@ -1,0 +1,11 @@
+sentence-transformers
+faiss-cpu
+rank-bm25
+nltk
+openai
+streamlit
+rouge-score
+scikit-learn
+pypdf
+pyyaml
+tqdm
