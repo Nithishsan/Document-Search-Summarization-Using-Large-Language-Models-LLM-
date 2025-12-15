@@ -1,0 +1,55 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment files
+.env
+*.env
+.env.*
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+.history/
+
+# Logs
+*.log
+
+# Cache & build artifacts
+*.egg-info/
+dist/
+build/
+.cache/
+.pytest_cache/
+
+# Model files (LFS handles these)
+*.bin
+*.pt
+*.pth
+*.h5
+*.pkl
+*.ckpt
+
+# HuggingFace
+hub/
+outputs/
+
+# Node (if frontend present)
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit secrets
+.streamlit/secrets.toml
